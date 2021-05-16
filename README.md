@@ -1,4 +1,4 @@
-Modern Internet-Programming Technologies Practical work #1
+Modern Internet-Programming Technologies Practical works #1 and #2
 
 Student: Shlyahta D.N.
 Teacher: Efremov R.V.
